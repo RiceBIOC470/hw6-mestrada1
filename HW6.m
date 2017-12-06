@@ -1,4 +1,15 @@
 %HW6
+%GB comments
+1a 100
+1b 100
+1c 100
+1d 100
+1e 100
+2a 100
+2b 100
+2c  90 Need to discuss a bit more here. For example, there are still low pvalues when the variance is low. Can you explain that?
+Overall: 99
+
 
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
